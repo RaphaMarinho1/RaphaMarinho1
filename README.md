@@ -8,7 +8,6 @@ Sou apaixonado pelo universo da programação e em como as tecnologias podem mud
  <br/> :computer: &nbsp; Estou estudando: ReactJS, Next.js, Typescript e Node.js;
  <br/> 💬  &nbsp; Sobre mim: Gosto das tecnologias computacionais, matematica e jogos.
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphael-marinho-a2b6bb17a/)](https://www.linkedin.com/in/raphael-marinho-a2b6bb17a/) 
-| 
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contatoraphamarinho@gmail.com)](mailto:contatoraphamarinho@gmail.com)
 
 
