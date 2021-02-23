@@ -1,7 +1,6 @@
 ```markdown
-# Raphael Marinho
+## Hi, I'm Raphael Marinho 👋
 
-## Olá pessoal 👋
 Sou apaixonado pelo universo da programação e em como as tecnologias podem mudar e desenvolver o mundo.
 Sou um estudante de Análise e Desenvolvimento de Sistemas :computer:
 
@@ -9,8 +8,11 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas :computer:
  Buscando colaborar com projetos em Front-end usando React;
  Estou estudando: ReactJS, Next.js, Typescript e Node.js;
  Sobre mim: Gosto das tecnologias computacionais, matematica e jogos.
- Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+ Entre em contato comigo: 
+[<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/email.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
 
+[linkedin]: https://www.linkedin.com/in/raphael-marinho-a2b6bb17a/
+[gmail]: raphamarinho2018@gmail.com
 ```
