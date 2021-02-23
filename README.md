@@ -1,6 +1,6 @@
 ## Hi, I'm Raphael Marinho 👋
 
-:heart: I'm passionate about the programming universe and how technologies can change the world.
+:heart:  I'm passionate about the programming universe and how technologies can change the world.
 
  :briefcase: &nbsp; Acctualy looking for a job as Developer Intern;
  <br/> :mortar_board: &nbsp; System Development and Analysis student;
