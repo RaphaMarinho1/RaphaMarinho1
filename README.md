@@ -2,7 +2,7 @@
 
 :heart:  I'm passionate about the programming universe and how technologies can change the world.
 
- :briefcase: &nbsp; Front-end Web Developer Intern;
+ :briefcase: &nbsp; Front-end Web Developer Intern at ACCT Global;
  <br/> :mortar_board: &nbsp; System Development and Analysis student;
  <br/> :computer: &nbsp; I'm studying: ReactJS, Next.js, Typescript e Node.js;
  <br/> 💬  &nbsp; About me: I like computing, techlonogy, mathematics and games;
